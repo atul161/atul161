@@ -14,10 +14,3 @@ I am a developer who is passionate about stuff like golang , android , flutter a
 </p>
 
 </details>
-
-
----
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
