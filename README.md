@@ -3,7 +3,7 @@ I am a developer who is passionate about stuff like golang , android , flutter a
 - 👨🏽‍💻 Currently working, learning and growing my skillset in fullstack development , devops , competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in fullstack projects.
 - 🕵🏼‍♂️ If you have a cool project idea then include as well.
--👩‍❤️‍👨And yes i am single, feel free to contact me or can you please suggest me a girlfriend 😇🤓.
+- 👩‍❤️‍👨And yes i am single, feel free to contact me or can you please suggest me a girlfriend 😇🤓.
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
