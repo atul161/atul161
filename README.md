@@ -1,5 +1,5 @@
 ## Hi 👋 I am Atul! 
-I am a developer who is passionate about stuff like golang , android , flutter and devops. Few tech that I enjoy working in are terraform , kubernates, gcp , aws. Recently, I have just started with tech-blogging!
+I am a developer who is passionate about stuff like golang , android , flutter and devops. Few tech that I enjoy working are terraform , kubernates, gcp , aws. Recently, I have just started with tech-blogging!
 - 👨🏽‍💻 Currently working, learning and growing my skillset in fullstack development , devops , competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in fullstack projects.
 - 🕵🏼‍♂️ If you have a cool project idea then include me as well.
