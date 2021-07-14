@@ -5,14 +5,9 @@ I am a developer who is passionate about stuff like golang , android , flutter a
 - 🕵🏼‍♂️ If you have a cool project idea then include me as well.
 - 👩‍❤️‍👨 And yes i am single, feel free to contact me or can you please suggest me a girlfriend 😇🤓?.
 
-<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul161)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atul161)
 
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=atul161&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=atul161&hide=css,java,html&theme=bear">
-</p>
 
-</details>
+
