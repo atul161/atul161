@@ -7,7 +7,7 @@ I am a developer who is passionate about stuff like golang , android , flutter a
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=atul161)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul161)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <p align = "center">
