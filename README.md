@@ -7,9 +7,5 @@ I am a developer who is passionate about stuff like golang , android , flutter a
 - 🕵🏼‍♂️ If you have a cool project idea then include me as well.
 - 👩‍❤️‍👨 And yes i am single, feel free to contact me or can you please suggest me a girlfriend 😇🤓?.
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
- 
-  ![Atul's github stats](https://github-readme-stats.vercel.app/api?username=atul161)
-
 
 
